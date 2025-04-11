@@ -128,7 +128,7 @@ function setupProjects() {
             id: 4,
             title: "Portfolio Project",
             category: "web",
-            image: "port.png",
+            image: "port1.png",
             description: "Customizable portfolio template for creatives with dark/light mode and project filtering.",
             liveUrl: "#",
             codeUrl: "#"
