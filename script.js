@@ -231,16 +231,16 @@ function openProjectModal(projectId) {
             id: 2,
             title: "Visually Enhanced Table",
             category: "data",
-            description: "https://Murugi88.github.io/premiertable",
-            liveUrl: "#",
+            description: "Interactive dashboard with quality table design.",
+            liveUrl: "https://Murugi88.github.io/premiertable",
             codeUrl: "#"
         },
         {
             id: 3,
             title: "Library System",
             category: "web",
-            description: "https://Murugi88.github.io/library",
-            liveUrl: "#",
+            description: "Book processing and managing system.",
+            liveUrl: "https://Murugi88.github.io/library",
             codeUrl: "#"
         },
         {
