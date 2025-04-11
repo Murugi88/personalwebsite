@@ -222,7 +222,7 @@ function openProjectModal(projectId) {
             id: 1,
             title: "LogIn Form",
             category: "web",
-            image: "table.png",
+            image: "logi.png",
             description: "A fully responsive Sign Up form with Validation.",
             liveUrl: "https://Murugi88.github.io/js-regex-validation_Mitchelle_Murugi",
             codeUrl: "#"
@@ -231,6 +231,7 @@ function openProjectModal(projectId) {
             id: 2,
             title: "Visually Enhanced Table",
             category: "data",
+            image: "table.png",
             description: "Interactive dashboard with quality table design.",
             liveUrl: "https://Murugi88.github.io/premiertable",
             codeUrl: "#"
@@ -239,6 +240,7 @@ function openProjectModal(projectId) {
             id: 3,
             title: "Library System",
             category: "web",
+            image: "lib.png",
             description: "Book processing and managing system.",
             liveUrl: "https://Murugi88.github.io/library",
             codeUrl: "#"
@@ -247,6 +249,7 @@ function openProjectModal(projectId) {
             id: 4,
             title: "Portfolio Template",
             category: "web",
+            image: "port1.png",
             description: "Customizable portfolio template for creatives with dark/light mode and project filtering. Built with pure HTML, CSS, and JavaScript. Easy to deploy and modify with minimal coding knowledge required.",
             liveUrl: "https://Murugi88.github.io/personalwebsite",
             codeUrl: "#"
@@ -255,6 +258,7 @@ function openProjectModal(projectId) {
             id: 5,
             title: "Deepseek V Chat",
             category: "ai",
+            image: "usiu.png",
             description: "Customizable Models.",
             liveUrl: "#",
             codeUrl: "#"
